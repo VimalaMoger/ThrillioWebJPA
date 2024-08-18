@@ -4,4 +4,4 @@ Managed project dependencies in pom.xml using Maven. Created model entities and 
 
 Implemented a User table to store registered user information, including encoded passwords with PasswordEncoder to secure plain text passwords. Validated email on both the registration and login pages, ensuring that all fields were filled out correctly. Configured error messages for invalid passwords in the controller.
 
-Added functionalities such as add, update, delete, and logout buttons on the books display page
+
